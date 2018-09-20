@@ -1,0 +1,6 @@
+Flask
+flask-restplus
+Pillow
+numpy
+requests
+opencv-python
